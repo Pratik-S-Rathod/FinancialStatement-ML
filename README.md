@@ -7,3 +7,6 @@ Architecture level analysis:
 1.	Data transformation/Text processing using R/Python
 2.	Need to get sentiments Analysis and Emotion mining with some charts like histogram, Density plot, Barplot, pie-plot etc. 
 3.	Deployment through R Shiny or Flask/ Streamlit
+
+
+<h4>To run this project use the fillowing steps:</h4>
