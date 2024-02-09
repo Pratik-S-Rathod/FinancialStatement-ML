@@ -9,4 +9,4 @@ Architecture level analysis:
 3.	Deployment through R Shiny or Flask/ Streamlit
 
 
-<h4>To run this project use the fillowing steps:</h4>
+<h2>To run this project use the fillowing steps:</h2>
