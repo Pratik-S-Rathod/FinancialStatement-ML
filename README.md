@@ -15,6 +15,6 @@ Architecture level analysis:
 2) Download project and store on your location
 3) open the spyder from the anaconda set the path
 4) open the anaconda prompt and give the path with command "cd"
-5) After reaching at the project directory use command **stramlit run dd.py**
+5) After reaching at the project directory use command **stramlit run app.py**
 6) if streamlit is not installed then install it first
 7) after running above command you can run the project
